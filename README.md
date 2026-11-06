@@ -2,7 +2,7 @@
 
 A simple software-defined radio (SDR) receiver for aviation voice (AM, 118 to 137 MHz). The USRP B210 captures IQ samples, GNU Radio filters one 25 kHz channel, demodulates AM, and plays the audio on the laptop. A live spectrum and waterfall show the band.
 
-Status: the flowgraph builds and runs. An airband signal has not been confirmed yet (work in progress).
+Status: the flowgraph builds and runs. An airband signal has been confirmed).
 
 Signal chain:
 
